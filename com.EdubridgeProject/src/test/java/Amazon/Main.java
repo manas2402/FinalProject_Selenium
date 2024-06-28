@@ -14,7 +14,7 @@ public class Main {
         
         // Sign in
         SignIn signIn = new SignIn(driver);
-        signIn.performSignIn("manas.2402@gmail.com", "@Alliswell33058");
+        signIn.performSignIn("xxxxxxxxxxxx.com", "xxxxxxxxxxx");
         
         // Search for a product
         ProductSearch productSearch = new ProductSearch(driver);
